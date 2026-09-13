@@ -13,4 +13,4 @@ The student profile will then be displayed in the terminal.
 
 Author
 
-Samar Abu Aloufgit add . 
+Samar Abu Alouf 
